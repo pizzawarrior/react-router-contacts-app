@@ -1,6 +1,6 @@
 # React + Vite
 
-A simple 'Contacts' app made with React and React Router, using client side routing, a fake cache and local data storage.
+A simple 'Contacts' HTTP service made with with React and React Router, using client side routing, a fake cache for faster performance, and local data storage.
 
 To run this project: `npm run dev`
 
